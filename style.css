@@ -1,0 +1,42 @@
+body
+{
+    background : url("images/backgroundImage.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#main
+{
+    width: 90%;
+    position: absolute;
+    top: 45%;
+    left: 5%;
+}
+.key
+{
+    float: left;
+    padding: 20px 22px;
+    margin-left: 2%;
+    width: 5%;
+    border: 1px solid black;
+    height: auto;
+    background-color: rgba(0,0,0,0.4) ;
+    text-align: center;
+    transition:all 0.07s;
+}
+.key kbd
+{
+    color: white;
+    font-size: 50px;
+    display: block;
+}
+.playing
+{
+    transform: scale(1.1);
+    border-color: #ffc600;
+    box-shadow: 0 0 10px #ffc600;
+}
+span
+{
+    color: #ffc600;
+}
