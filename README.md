@@ -1,4 +1,4 @@
 # Drum_Kit
 Drum Kit
 
-https://user-images.githubusercontent.com/30204416/33234928-480d2242-d1f4-11e7-9434-fba430d932c5.PNG
+![drumkit](https://user-images.githubusercontent.com/30204416/33235045-3f3d615c-d1f6-11e7-92c9-75d65ccf7449.PNG)
